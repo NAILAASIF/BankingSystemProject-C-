@@ -7,6 +7,7 @@ It also features a **colored, animated console interface** for an engaging user 
 ---
 
 ## 📌 Features
+
 - 🆕 Create new accounts with validation
 - 💰 Deposit & withdraw money with error checks
 - 📊 Check account balance
@@ -18,6 +19,7 @@ It also features a **colored, animated console interface** for an engaging user 
 ---
 
 ## 🎯 Objective
+
 This project was developed as part of my **internship** to strengthen my skills in:
 - **C++ programming**
 - **Object-Oriented Programming (OOP)**
@@ -30,6 +32,7 @@ The aim was to create a **real-world simulation** of a banking system with prope
 ---
 
 ## 🛠️ Technologies Used
+
 - **C++**
 - `fstream` for file handling
 - Windows API for console colors (`<windows.h>`)
@@ -37,17 +40,21 @@ The aim was to create a **real-world simulation** of a banking system with prope
 - `<conio.h>` for secure password input
 
 🔐 Admin Access
+
 Default password: admin123
 
 You can change it inside the main.cpp file in the Admin section.
 
 ---
 🏆 Internship Task
+
 This project was created as part of my internship, focusing on applying programming concepts to build real-world applications.
 It demonstrates practical use of OOP, file handling, data validation, and secure admin access.
 
 📬 Contact
+
 Naila Asif
+
 🔗 LinkedIn https://www.linkedin.com/in/naila-asif-4a29b0351
 
 💻 GitHub https://github.com/NAILAASIF/BankingSystemProject-C-
